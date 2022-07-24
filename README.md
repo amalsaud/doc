@@ -67,9 +67,9 @@ This app is hosted on:
 
 ### Authors
 - [Nada Alsogour](https://github.com/Nada-bit73)
-- Sarah Alsaedi
-- Reem Alharbi
-- Amal Aldawsari
+- [Sarah Alsaedi](https://github.com/sarah-47)
+- [Reem Alharbi](https://github.com/ReemAllharbi)
+- [Amal Aldawsari](https://github.com/amalsaud)
 
 ### Acknowledgements
 
