@@ -64,3 +64,13 @@ python manage.py migrate
 
 ### Deployment
 This app is hosted on:
+
+### Authors
+- [Nada Alsogour](https://github.com/Nada-bit73)
+- Sarah Alsaedi
+- Reem Alharbi
+- Amal Aldawsari
+
+### Acknowledgements
+
+We want to convey our appreciation and gratitude to Coding Dojo and Saudi Digital Academy for this opportunity.
